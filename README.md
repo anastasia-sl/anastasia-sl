@@ -1,5 +1,5 @@
 <code>🎓 Student: KPI / IM-24</code>
-<code>👷 Speciality: Software engineer / FrontEnd</code><br>
+<code>👷 Speciality: Software engineer / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
